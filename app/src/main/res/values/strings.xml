@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sem1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appname">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUST\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tOnline\n\t\t\t\t\t\t\t\t\t\t\tReservation\n</string>
+    <string name="login">\t\tLog-In\t\t\t</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="welcome">\t\t\t\t\t\t\t\t\t\tHello Username!\t\t\t\t\t\t\t\t\n</string>
+    <string name="logout">\nLog-out\n</string>
+    <string name="profile">\nProfile\n</string>
+    <string name="events">Events</string>
+    <string name="title_activity_my_activity3">MyActivity3</string>
+    <string name="numticket">Enter number of tickets</string>
+    <string name="summary">\nNumber of tickets: \n\nTotal Price: \n\nYou can get your tickets at\n</string>
+    <string name="accept">\n\tAccept\t\n</string>
+    <string name="undo">\n\tClear\t\n</string>
+    <string name="title_activity_my_activity4">MyActivity4</string>
+    <string name="back">Back\n</string>
+    <string name="eventlist">Events for the next 4 weeks</string>
+    <string name="title_activity_my_activity5">MyActivity5</string>
+    <string name="eventnum">Event Name</string>
+    <string name="studentname">Name: </string>
+    <string name="studedntnum">Student Number: </string>
+    <string name="courssec">Year and Course: </string>
+    <string name="eventattend">Events attended</string>
+    <string name="eventto">Events to attend</string>
+
+</resources>
